@@ -23,7 +23,7 @@ You are not just my friend, you’re the most special part of my life.
 You make me smile, you make my heart race, and you make me want to be a better version of myself.  
 
 I don’t know what the future holds, but I know one thing for sure.
-I want that future with you.`
+I want that future with you janeman.I loveeeee youuuu soooo sooooo much babyy.`
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
@@ -269,7 +269,7 @@ I want that future with you.`
               <motion.p
                 className="text-3xl md:text-4xl text-pink-300 font-semibold"
               >
-                Forever✨
+                Forever janeman💗✨
               </motion.p>
             </motion.div>
           </motion.div>
