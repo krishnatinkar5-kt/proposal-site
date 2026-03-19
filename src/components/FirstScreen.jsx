@@ -49,7 +49,7 @@ export default function FirstScreen({ onNext }) {
                     <span className="font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
                         special
                     </span>{" "}
-                    to tell you...
+                    to tell you mere jaaneman...
                 </motion.h1>
 
                 {/* Subtitle */}
