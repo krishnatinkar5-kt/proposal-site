@@ -52,7 +52,7 @@ export default function ProposalSite() {
           />
         )}
 
-        {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("photos")} />}
+        {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("final")} />}
 
         {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("final")} />}
 
